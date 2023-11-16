@@ -1,0 +1,43 @@
+# Bir Web Adresinin Anatomisi
+
+Bir web adresini veya URL'yi nasıl okuyacağınızı zaten biliyorsanız ("sen ell" olarak telaffuz edilir), bu bölümü atlayın. Aksi takdirde, web adresini göz önünde bulundurun. İşte tüm bunların anlamı: [https://www.googleguide.com/searchEngines/google/searchLeader.html](https://www.googleguide.com/searchEngines/google/searchLeader.html)
+
+- **http**: Aktarım protokolü (aktarılan bilgi türü)
+- **www.googleguide.com**: Web sitesi adı, ana bilgisayar adı
+- **googleguide**: İkinci düzey alan adı
+- **com**: Üst düzey alan adı
+- **searchEngines**: Dizin adı (ana kategori)
+- **google**: Alt dizin adı (alt kategori)
+- **searchLeader**: Dosya adı (dizin içindeki bir dosya)
+- **html**: Dosya Biçimi
+
+İşte bazı yaygın üst düzey alan adlarının bir listesi. Bazı sitelerin şu kurallara uymadığını unutmayın:
+
+- **.edu**: Eğitim sitesi (genellikle bir üniversite veya kolej)
+- **.com**: Ticari İş Sitesi
+- **.gov**: ABD hükümeti/askeri olmayan site
+- **.mil**: ABD askeri siteleri veya ajansları
+- **.net**: Ağlar, İnternet servis sağlayıcıları, kuruluşlar
+- **.org**: Kar amacı gütmeyen kuruluşlar ve diğerleri
+
+İnternet Amerika Birleşik Devletleri'nde oluşturulduğundan, "ABD" başlangıçta ABD alan adlarına atanmamıştır; ancak, birçok devlet okulu ve ticari kuruluş dahil olmak üzere Amerikan eyalet ve yerel yönetim ev sahiplerini belirtmek için kullanılır, örneğin, . Etki alanı, ardından gelmediği sürece Kanada'yı temsil eder ve bu durumda Kaliforniya'yı temsil eder. `well.sf.ca.us.ca.us`
+
+**Alan Kodları** - **Devlet**
+- **.ca.us**: California
+- **.nv.us**: Nevada
+- **.tx.us**: Texas
+
+Diğer ülkeler, alan adlarının en üst düzeyi olarak kendi iki harfli kodlarına sahiptir - ancak ABD dışındaki birçok site diğer üst düzey alan adlarını kullanır (örneğin): `.com`
+
+**Alan Kodları** - **Ülke**
+- **.ca**: Kanada
+- **.de**: Almanya
+- **.dk**: Danimarka
+- **.jp**: Japonya
+- **.il**: İsrail
+- **.uk**: Birleşik Krallık
+- **.za**: Güney Afrika
+
+Sonuçları tek bir site veya alanla sınırlamak için Google'ın alan seçicisinde site adını (ör. `www.googleguide.com`) ya da üst düzey bir alan adını (ör. `.com` veya `.edu`) belirtin.
+
+*etiketler (anahtar kelimeler): etki alanı, URL'ler*
